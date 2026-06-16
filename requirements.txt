@@ -1,0 +1,12 @@
+numpy
+matplotlib
+
+pandas
+scikit-learn
+
+torch
+torchinfo
+torchvision
+segmentation-models-pytorch
+
+optuna
