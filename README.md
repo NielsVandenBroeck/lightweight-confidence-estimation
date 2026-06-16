@@ -91,5 +91,4 @@ python src/evaluate_all.py
 Because of the size of the model checkpoints across all configurations, the output data is hosted via GitHub Releases rather than directly in the git history. 
 
 You can download the stripped checkpoints, evaluation logs, and visualization plots here:
-* [Download CIFAR-100 Results](https://github.com/NielsVandenBroeck/lightweight-confidence-estimation/releases/download/v1.0-thesis/Cifar100_Results.zip)
-* [Download Ohio Small Animals Results](https://github.com/NielsVandenBroeck/lightweight-confidence-estimation/releases/download/v1.0-thesis/Ohio_Results.zip)
+* [Download Models and Evaluation Data](https://github.com/NielsVandenBroeck/lightweight-confidence-estimation/releases/tag/v1.0-thesis)
